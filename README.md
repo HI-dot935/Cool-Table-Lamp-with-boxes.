@@ -1,6 +1,6 @@
 # Cool-Table-Lamp-with-boxes-to-keep-your-pens-and-stuff
 
-<img width="773" height="477" alt="Screenshot 2026-10-23 at 9 38 03 PM" src="https://github.com/user-attachments/assets/cbdd15b1-1641-4258-86a2-d3a71eade174" />
+<img width="833" height="598" alt="Screenshot 2026-10-23 at 9 36 51 PM" src="https://github.com/user-attachments/assets/33ee44f2-4e6f-44fc-8823-54bf62c4609f" />
 
 # What's this?
 So this is a cool table lamp with box to keep your pens and stuff with rechargeable battery. So when powercut is there you have an backup emergency lamp kinda also.
