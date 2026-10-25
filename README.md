@@ -40,3 +40,6 @@ Material any works I'm using PLA.
 
 #### As you can see here how the small case will be placed and sticked to the main body only 2 small wires will be out from there to connect the led's with switch and battery.
 <img width="896" height="370" alt="Screenshot 2026-10-20 at 11 52 05 AM" src="https://github.com/user-attachments/assets/71c81210-669a-4dbc-ab04-9b679214f4a7" />
+
+### Note
+#### Accessories are custom how the user wants them. Any text of their choice pillars also if u want.
